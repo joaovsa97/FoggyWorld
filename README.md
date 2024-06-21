@@ -1,4 +1,4 @@
-<h1>Foggy World<\h1>
+<h1>Foggy World</h1>
 
 <h2>Este é um jogo desenvolvido utilizando Unity3d.</h2>
 
