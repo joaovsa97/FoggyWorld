@@ -1,9 +1,10 @@
-#Foggy World
+<h1>Foggy World<\h1>
 
-##Este é um jogo desenvolvido utilizando Unity3d.
-Gênero do jogo: RPG, Fantasia e Aventura.
+<h2>Este é um jogo desenvolvido utilizando Unity3d.</h2>
 
-##História
+<span>Gênero do jogo: RPG, Fantasia e Aventura.</span>
+
+<h2>História</h2>
 
 <i>"Há muito tempo, a Terra existia em um equilíbrio delicado, oculto dos olhos humanos. Mitologias antigas, crenças e lendas habitavam um mundo paralelo, separado da realidade humana. Seres de pura luz e ordem, os guardiões da Lei, conviviam com criaturas das trevas, representantes do Caos, uma força destrutiva incontrolável. Esses dois lados coexistiam em um acordo frágil, mantido pela entidade da Neutralidade.
 
